@@ -60,6 +60,7 @@ function UploadProductPage(props) {
       images: Images,
       continents: Continent,
     };
+    //모든 정보를 백엔드 보낸다.
 
     Axios.post("/api/product", body).then((response) => {
       if (response.data.success) {
