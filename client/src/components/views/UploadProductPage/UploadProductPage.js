@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import { Typography, Button, Form, Input } from "antd";
+import { Form, Input } from "antd";
 import FileUpload from "../../utils/FileUpload";
 import Axios from "axios";
 const { TextArea } = Input;
@@ -99,7 +99,6 @@ function UploadProductPage(props) {
         <select onChange={continentChangeHandler} value={Continent}>
           {Continents.map((item) => (
             <option key={item.key} value={item.key}>
-              {" "}
               {item.value}
             </option>
           ))}
