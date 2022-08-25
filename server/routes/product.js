@@ -75,7 +75,7 @@ router.post("/products", (req, res) => {
       .populate("writer")
       .sort([[sortBy, order]])
       .skip(skip)
-      .limit(limit)
+      .limit(limit) // 8개 까지 가져오기
       .exec((err, productInfo) => {
         if (err) return res.status(400).json({ success: false, err });
         return res.status(200).json({
