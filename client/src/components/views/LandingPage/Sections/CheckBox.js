@@ -8,7 +8,7 @@ function CheckBox(props) {
 
   const handleToggle = (value) => {
     //누른 것의 Index를 구하고
-    const currentIndex = Checked.indexOf(value); 
+    const currentIndex = Checked.indexOf(value);
     //전체 Checked된 State에서  현재 누른 Checkbox가 이미 있다면
     const newChecked = [...Checked];
 
@@ -21,7 +21,10 @@ function CheckBox(props) {
     } else {
       newChecked.splice(currentIndex, 1);
     }
-  
+    setChecked(newChecked);
+    props.handleFilters(newChecked);
+  };
+
   const renderCheckboxLists = () =>
     props.list &&
     props.list.map((value, index) => (
