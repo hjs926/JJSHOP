@@ -48,11 +48,12 @@ router.post("/products", (req, res) => {
   // product collection에 들어 있는 모든 상품 정보를 가져오기
   let limit = req.body.limit ? parseInt(req.body.limit) : 20;
   let skip = req.body.skip ? parseInt(req.body.skip) : 0;
-  let term = req.body.searchTerm;
+  let term = req.body.searchTerm; // 찾는 데이터 문장 조건
 
   let findArgs = {};
 
   for (let key in req.body.filters) {
+    // 필터에 따라서
     if (req.body.filters[key].length > 0) {
       if (key === "price") {
         findArgs[key] = {
