@@ -15,6 +15,7 @@ function CheckBox(props) {
     // State 넣어준다.
 
     // 없는 값을 넣으면 -1이 나온다
+
     if (currentIndex === -1) {
       newChecked.push(value);
       // 빼주고
