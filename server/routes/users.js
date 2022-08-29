@@ -169,7 +169,6 @@ router.post("/successBuy", auth, (req, res) => {
       paymentId: req.body.paymentData.paymentID,
     });
   });
-
   //2. Payment Collection 안에  자세한 결제 정보들 넣어주기
   transactionData.user = {
     id: req.user._id,
