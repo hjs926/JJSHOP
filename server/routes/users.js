@@ -170,15 +170,7 @@ router.post("/successBuy", auth, (req, res) => {
     });
   });
   //2. Payment Collection 안에  자세한 결제 정보들 넣어주기
-  transactionData.user = {
-    id: req.user._id,
-    name: req.user.name,
-    email: req.user.email,
-  };
-
-  transactionData.data = req.body.paymentData;
-  transactionData.product = history;
-
+ 
   //history 정보 저장
   User.findOneAndUpdate(
     { _id: req.user._id },
