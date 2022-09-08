@@ -176,9 +176,6 @@ router.post("/successBuy", auth, (req, res) => {
     email: req.user.email,
   };
 
-  transactionData.data = req.body.paymentData;
-  transactionData.product = history;
-
   //history 정보 저장
   User.findOneAndUpdate(
     { _id: req.user._id },
