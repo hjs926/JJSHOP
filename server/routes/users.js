@@ -192,6 +192,10 @@ router.post("/successBuy", auth, (req, res) => {
       payment.save((err, doc) => {
         if (err) return res.json({ success: false, err });
 
+        //3. Product Collection 안에 있는 sold 필드 정보 업데이트 시켜주기
+
+        //상품 당 몇개의 quantity를 샀는지
+
         let products = [];
         doc.product.forEach((item) => {
           products.push({ id: item.id, quantity: item.quantity });
