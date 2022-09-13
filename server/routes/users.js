@@ -179,14 +179,7 @@ router.post("/successBuy", auth, (req, res) => {
   transactionData.data = req.body.paymentData;
   transactionData.product = history;
 
-  //history 정보 저장
-  User.findOneAndUpdate(
-    { _id: req.user._id },
-    { $push: { history: history }, $set: { cart: [] } },
-    { new: true },
-    (err, user) => {
-      if (err) return res.json({ success: false, err });
-
+ 
       //payment에다가  transactionData정보 저장
       const payment = new Payment(transactionData);
       payment.save((err, doc) => {
