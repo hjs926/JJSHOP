@@ -17,5 +17,5 @@
 - map(), forEach() 차이점
 - REST API를 활용한 Client에서 Server를 호출하여 데이터 상호전달
 - ant design을 활용한 디자인 구현
-- React-Redux에 대한 사전지식이 없는 채 시작을 하여 완벽히 이해는 하지 못했으나, 어떻게 사용하는지에 대해 간략하게 눈으로 익힘
+- React-Redux를 어떻게 사용하는지에 대해 간략하게 눈으로 익힘
 - axios 및 Redux-dispatch에 대한 이해 및 활용방법
