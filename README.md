@@ -1,9 +1,5 @@
 ## React를 활용한 쇼핑몰 프로젝트
 
-## 기간
-
-- 2022/08/01 ~ 2020/10/15
-
 ## 소개
 
 [인프런강좌](https://www.inflearn.com/course/%EB%94%B0%EB%9D%BC%ED%95%98%EB%A9%B0-%EB%B0%B0%EC%9A%B0%EB%8A%94-%EB%85%B8%EB%93%9C-%EB%A6%AC%EC%95%A1%ED%8A%B8-%EC%87%BC%ED%95%91%EB%AA%B0)  
