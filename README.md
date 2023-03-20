@@ -28,8 +28,8 @@
 
 ### 결제
 
-![](https://velog.velcdn.com/images/hjs926/post/b051317f-9d9d-483d-b3b6-79aaead87e14/image.png)
+![](<img style="width:500px" src=https://velog.velcdn.com/images/hjs926/post/b051317f-9d9d-483d-b3b6-79aaead87e14/image.png>)
 
-![](https://velog.velcdn.com/images/hjs926/post/66b9537b-0f92-4b78-a949-780104b9d59d/image.png)
+![](<img style="width:500px" src=https://velog.velcdn.com/images/hjs926/post/66b9537b-0f92-4b78-a949-780104b9d59d/image.png>)
 
 ![](https://velog.velcdn.com/images/hjs926/post/f4c5c54f-ee66-41cc-9dc5-9937bddb2125/image.png)
