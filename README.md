@@ -18,16 +18,13 @@
 
 ## ⚒️ 기술 스택
 
-![Javascript]("https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black")
-![MongoDB](https://img.shields.io/badge/MongoDB-8cbe68?style=for-the-badge&logo=MongoDB&logoColor=white)
-![NodeJS]("https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white")
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<img alt="Nodejs" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
+<img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-8cbe68?style=for-the-badge&logo=MongoDB&logoColor=white">
 
 ## 기능
 
 ### 상품 상세페이지
-
-![]
-(https://velog.velcdn.com/images/hjs926/post/70d16890-ad90-436d-8d07-23046b1b1496/image.png)
 
 ### 결제
 
