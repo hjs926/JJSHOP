@@ -19,9 +19,7 @@
 ## 기술 스택
 
 ![Javascript](https://img.shields.io/badge/Javascript-61DAFB?style=for-the-badge&logo=Javascript&logoColor=black)
-
 ![NodeJS](https://img.shields.io/badge/NodeJS-8cbe68?style=for-the-badge&logo=NodeJS&logoColor=white)
-
 ![MongoDB](https://img.shields.io/badge/MongoDB-8cbe68?style=for-the-badge&logo=MongoDB&logoColor=white)
 
 ## 기능
