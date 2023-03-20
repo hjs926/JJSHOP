@@ -36,6 +36,16 @@ yarn dev
 
 ## 기능
 
+### login 페이지, sign 페이지
+
+<img style="width:500px" src="https://user-images.githubusercontent.com/48309309/226252126-4c862f6f-2de9-4ae2-a116-dccdfae2fea5.PNG"/>
+<img style="width:500px" src="https://user-images.githubusercontent.com/48309309/226252131-7d58f643-142d-4ec7-b37a-0f1a74bde1aa.PNG"/>
+<img style="width:500px" src="https://user-images.githubusercontent.com/48309309/226252140-50daac6b-fb77-45aa-a3ec-d4c31e41fd4e.PNG"/>
+<img style="width:500px" src="https://user-images.githubusercontent.com/48309309/226252145-d805a170-ba3f-461c-a4cc-67e696c107d2.PNG">
+<img style="width:500px" src="https://user-images.githubusercontent.com/48309309/226252153-0efcc066-23c4-4942-8ccc-df29bd1db3e7.PNG">
+<img style="width:500px" src="https://user-images.githubusercontent.com/48309309/226252160-06fcbd6f-6ec1-4d18-b3dc-476cd6fe52aa.PNG">
+<img style="width:500px" src="https://user-images.githubusercontent.com/48309309/226252170-ffc5dae5-1f29-43db-a1d8-0019b13baf19.PNG">
+
 ### 상품 페이지
 
 ### 결제
