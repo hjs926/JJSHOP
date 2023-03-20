@@ -18,7 +18,11 @@
 
 ## 기술 스택
 
-<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img alt="Nodejs" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"> <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-8cbe68?style=for-the-badge&logo=MongoDB&logoColor=white">
+![Javascript](https://img.shields.io/badge/Javascript-61DAFB?style=for-the-badge&logo=Javascript&logoColor=black)
+
+![NodeJS](https://img.shields.io/badge/NodeJS-8cbe68?style=for-the-badge&logo=NodeJS&logoColor=white)
+
+![MongoDB](https://img.shields.io/badge/MongoDB-8cbe68?style=for-the-badge&logo=MongoDB&logoColor=white)
 
 ## 기능
 
