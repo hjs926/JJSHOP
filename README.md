@@ -36,7 +36,7 @@ yarn dev
 
 ## 기능
 
-### sign up 페이지, login page
+### 회원가입, 로그인 페이지
 
 <img style="width:500px" src="https://user-images.githubusercontent.com/48309309/226252126-4c862f6f-2de9-4ae2-a116-dccdfae2fea5.PNG"/>
 <img style="width:500px" src="https://user-images.githubusercontent.com/48309309/226252131-7d58f643-142d-4ec7-b37a-0f1a74bde1aa.PNG"/>
