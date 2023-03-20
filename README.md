@@ -15,3 +15,24 @@
 - ant design을 활용한 디자인 구현
 - React-Redux를 어떻게 사용하는지에 대해 간략하게 눈으로 익힘
 - axios 및 Redux-dispatch에 대한 이해 및 활용방법
+
+## ⚒️ 기술 스택
+
+![Javascript]("https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black")
+![MongoDB](https://img.shields.io/badge/MongoDB-8cbe68?style=for-the-badge&logo=MongoDB&logoColor=white)
+![NodeJS]("https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white")
+
+## 기능
+
+### 상품 상세페이지
+
+![]
+(https://velog.velcdn.com/images/hjs926/post/70d16890-ad90-436d-8d07-23046b1b1496/image.png)
+
+### 결제
+
+![](https://velog.velcdn.com/images/hjs926/post/b051317f-9d9d-483d-b3b6-79aaead87e14/image.png)
+
+![](https://velog.velcdn.com/images/hjs926/post/66b9537b-0f92-4b78-a949-780104b9d59d/image.png)
+
+![](https://velog.velcdn.com/images/hjs926/post/f4c5c54f-ee66-41cc-9dc5-9937bddb2125/image.png)
