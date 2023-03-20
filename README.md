@@ -22,14 +22,20 @@
 ![NodeJS](https://img.shields.io/badge/NodeJS-8cbe68?style=for-the-badge&logo=NodeJS&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-8cbe68?style=for-the-badge&logo=MongoDB&logoColor=white)
 
+## 설치 및 실행
+
+- 클라이언트와 서버 동시 실행 가능합니다.
+- dev.js file을 config 폴더 안에 생성해주세요.
+- mongoDB 정보를 dev.js file안에다가 넣어주세요.
+- " npm install "을 root directory에서 입력해주세요. (백엔드 종속성 다운받기)
+- " npm install "을 client directory에서 입력해주세요. (프론트엔드 종속성 다운받기)
+
+```shell
+yarn dev
+```
+
 ## 기능
 
-### 상품 상세페이지
+### 상품 페이지
 
 ### 결제
-
-![](<img style="width:500px" src=https://velog.velcdn.com/images/hjs926/post/b051317f-9d9d-483d-b3b6-79aaead87e14/image.png>)
-
-![](<img style="width:500px" src=https://velog.velcdn.com/images/hjs926/post/66b9537b-0f92-4b78-a949-780104b9d59d/image.png>)
-
-![](https://velog.velcdn.com/images/hjs926/post/f4c5c54f-ee66-41cc-9dc5-9937bddb2125/image.png)
