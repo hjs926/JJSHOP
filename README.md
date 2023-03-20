@@ -51,3 +51,7 @@ yarn dev
 <img style="width:500px" src="https://user-images.githubusercontent.com/48309309/226252153-0efcc066-23c4-4942-8ccc-df29bd1db3e7.PNG">
 <img style="width:500px" src="https://user-images.githubusercontent.com/48309309/226252160-06fcbd6f-6ec1-4d18-b3dc-476cd6fe52aa.PNG">
 <img style="width:500px" src="https://user-images.githubusercontent.com/48309309/226252170-ffc5dae5-1f29-43db-a1d8-0019b13baf19.PNG">
+
+### 결제내역 확인
+
+<img style="width:500px" src="https://user-images.githubusercontent.com/48309309/226253037-8e0457dd-d207-493b-a933-94fabe12a512.PNG">
