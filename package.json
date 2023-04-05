@@ -1,4 +1,5 @@
 {
+  "homepage": "https://hjs926.github.io/JJSHOP/",
   "name": "react-boiler-plate",
   "version": "1.0.0",
   "description": "react boiler plate",
@@ -9,9 +10,12 @@
   },
   "scripts": {
     "start": "node server/index.js",
+    "build": "node build/build.js",
     "backend": "nodemon server/index.js",
     "frontend": "npm run start --prefix client",
-    "dev": "concurrently \"npm run backend\" \"npm run start --prefix client\""
+    "dev": "concurrently \"npm run backend\" \"npm run start --prefix client\"",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "author": "John ahn",
   "license": "ISC",
