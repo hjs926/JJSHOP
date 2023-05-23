@@ -1,20 +1,10 @@
 ## JSTRIP 여행 사이트
 ![JSTRIP](https://github.com/hjs926/JSTRIP/assets/48309309/03d18be6-34c6-4902-9d32-3991a1bea3e9)
 
-
-## 배운 점
-
-- MONGODB 연결, MONGODB 함수를 활용한 데이터 CRUD
-- React Hook (State, Effect)를 활용하여 Reack 컴포넌트 효율을 높임
-- map(), forEach() 차이점
-- REST API를 활용한 Client에서 Server를 호출하여 데이터 상호전달
-- ant design을 활용한 디자인 구현
-- React-Redux를 어떻게 사용하는지에 대해 간략하게 눈으로 익힘
-- axios 및 Redux-dispatch에 대한 이해 및 활용방법
-
 ## 기술 스택
 
 ![Javascript](https://img.shields.io/badge/Javascript-61DAFB?style=for-the-badge&logo=Javascript&logoColor=black)
+![React](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![NodeJS](https://img.shields.io/badge/NodeJS-8cbe68?style=for-the-badge&logo=NodeJS&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-8cbe68?style=for-the-badge&logo=MongoDB&logoColor=white)
 
