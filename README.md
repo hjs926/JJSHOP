@@ -1,5 +1,5 @@
-## React를 활용한 쇼핑몰 프로젝트
-![0134](https://github.com/hjs926/JJSHOP/assets/48309309/66412588-3743-4521-8998-533416a48e0e)
+## JSTRIP 여행 사이트
+![JSTRIP](https://github.com/hjs926/JSTRIP/assets/48309309/03d18be6-34c6-4902-9d32-3991a1bea3e9)
 
 
 ## 배운 점
